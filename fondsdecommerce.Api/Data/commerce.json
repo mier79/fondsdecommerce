@@ -1,0 +1,18 @@
+[
+    {
+      "Id": 1,
+      "Name": "Walmart",
+      "RegistreCommerce": "91AD"
+    },
+    {
+      "Id": 2,
+      "Name": "CBI",
+      "RegistreCommerce": "96SR"
+    },
+    {
+      "Id": 3,
+      "Name": "Puma",
+      "RegistreCommerce": "105UC"
+    }
+
+]

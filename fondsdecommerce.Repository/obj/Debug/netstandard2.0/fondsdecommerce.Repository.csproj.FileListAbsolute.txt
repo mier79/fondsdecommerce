@@ -1,0 +1,9 @@
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/bin/Debug/netstandard2.0/fondsdecommerce.Repository.deps.json
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/bin/Debug/netstandard2.0/fondsdecommerce.Repository.dll
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/bin/Debug/netstandard2.0/fondsdecommerce.Repository.pdb
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/obj/Debug/netstandard2.0/fondsdecommerce.Repository.csprojAssemblyReference.cache
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/obj/Debug/netstandard2.0/fondsdecommerce.Repository.csproj.CoreCompileInputs.cache
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/obj/Debug/netstandard2.0/fondsdecommerce.Repository.AssemblyInfoInputs.cache
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/obj/Debug/netstandard2.0/fondsdecommerce.Repository.AssemblyInfo.cs
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/obj/Debug/netstandard2.0/fondsdecommerce.Repository.dll
+/home/ier/Documents/Work/DOTNETPROJECTS/www.fondsdecommerce.tn/fondsdecommerce.Repository/obj/Debug/netstandard2.0/fondsdecommerce.Repository.pdb
